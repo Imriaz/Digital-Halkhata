@@ -1,0 +1,44 @@
+E:\Tutorial\Visual C# Code\Halkhata\Halkhata\bin\Debug\Halkhata.exe.config
+E:\Tutorial\Visual C# Code\Halkhata\Halkhata\bin\Debug\Halkhata.exe
+E:\Tutorial\Visual C# Code\Halkhata\Halkhata\bin\Debug\Halkhata.pdb
+E:\Tutorial\Visual C# Code\Halkhata\Halkhata\obj\Debug\Halkhata.csprojAssemblyReference.cache
+E:\Tutorial\Visual C# Code\Halkhata\Halkhata\obj\Debug\Halkhata.Properties.Resources.resources
+E:\Tutorial\Visual C# Code\Halkhata\Halkhata\obj\Debug\Halkhata.csproj.GenerateResource.cache
+E:\Tutorial\Visual C# Code\Halkhata\Halkhata\obj\Debug\Halkhata.csproj.CoreCompileInputs.cache
+E:\Tutorial\Visual C# Code\Halkhata\Halkhata\obj\Debug\Halkhata.exe
+E:\Tutorial\Visual C# Code\Halkhata\Halkhata\obj\Debug\Halkhata.pdb
+E:\Tutorial\Visual C# Code\Halkhata\Halkhata\obj\Debug\Halkhata.LoginForm.resources
+E:\Tutorial\Visual C# Code\Halkhata\Halkhata\obj\Debug\Halkhata.AdminMenu.resources
+E:\Tutorial\Visual C# Code\Halkhata\Halkhata\obj\Debug\Halkhata.AdminLogin.resources
+E:\Tutorial\Visual C# Code\Halkhata\Halkhata\obj\Debug\Halkhata.admin_registration.resources
+E:\Tutorial\Visual C# Code\Halkhata\Halkhata\obj\Debug\Halkhata.Customer_Registration.resources
+E:\Tutorial\Visual C# Code\Halkhata\Halkhata\obj\Debug\Halkhata.TransactionStatement.resources
+E:\Tutorial\Visual C# Code\Halkhata\Halkhata\bin\Debug\MySql.Data.dll
+E:\Tutorial\Visual C# Code\Halkhata\Halkhata\bin\Debug\MySql.Data.xml
+E:\Tutorial\Visual C# Code\Halkhata\Halkhata\obj\Debug\Halkhata.csproj.CopyComplete
+E:\Tutorial\Visual C# Code\Halkhata\Halkhata\obj\Debug\Halkhata.Customer_Profile.resources
+E:\Tutorial\Visual C# Code\Halkhata\Halkhata\obj\Debug\Halkhata.Transaction_History.resources
+E:\Tutorial\Visual C# Code\Halkhata\Halkhata\obj\Debug\Halkhata.Transaction_Data.resources
+E:\Tutorial\Visual C# Code\Halkhata\Halkhata\obj\Debug\Halkhata.Send_Notification.resources
+E:\Tutorial\Halkhata\Halkhata\bin\Debug\Halkhata.exe.config
+E:\Tutorial\Halkhata\Halkhata\bin\Debug\Halkhata.exe
+E:\Tutorial\Halkhata\Halkhata\bin\Debug\Halkhata.pdb
+E:\Tutorial\Halkhata\Halkhata\bin\Debug\MySql.Data.dll
+E:\Tutorial\Halkhata\Halkhata\bin\Debug\MySql.Data.xml
+E:\Tutorial\Halkhata\Halkhata\obj\Debug\Halkhata.csprojAssemblyReference.cache
+E:\Tutorial\Halkhata\Halkhata\obj\Debug\Halkhata.AdminMenu.resources
+E:\Tutorial\Halkhata\Halkhata\obj\Debug\Halkhata.AdminLogin.resources
+E:\Tutorial\Halkhata\Halkhata\obj\Debug\Halkhata.admin_registration.resources
+E:\Tutorial\Halkhata\Halkhata\obj\Debug\Halkhata.Send_Notification.resources
+E:\Tutorial\Halkhata\Halkhata\obj\Debug\Halkhata.Transaction_Data.resources
+E:\Tutorial\Halkhata\Halkhata\obj\Debug\Halkhata.Customer_Profile.resources
+E:\Tutorial\Halkhata\Halkhata\obj\Debug\Halkhata.Customer_Registration.resources
+E:\Tutorial\Halkhata\Halkhata\obj\Debug\Halkhata.LoginForm.resources
+E:\Tutorial\Halkhata\Halkhata\obj\Debug\Halkhata.Properties.Resources.resources
+E:\Tutorial\Halkhata\Halkhata\obj\Debug\Halkhata.TransactionStatement.resources
+E:\Tutorial\Halkhata\Halkhata\obj\Debug\Halkhata.Transaction_History.resources
+E:\Tutorial\Halkhata\Halkhata\obj\Debug\Halkhata.csproj.GenerateResource.cache
+E:\Tutorial\Halkhata\Halkhata\obj\Debug\Halkhata.csproj.CoreCompileInputs.cache
+E:\Tutorial\Halkhata\Halkhata\obj\Debug\Halkhata.csproj.CopyComplete
+E:\Tutorial\Halkhata\Halkhata\obj\Debug\Halkhata.exe
+E:\Tutorial\Halkhata\Halkhata\obj\Debug\Halkhata.pdb
